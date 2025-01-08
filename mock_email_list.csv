@@ -1,0 +1,11 @@
+email,status
+john.doe@example.com,valid
+jane.doe@anotherdomain.com,valid
+invalid-email@domain,invalid
+alice.smith@company.org,valid
+bob.jones@somewhere.net,valid
+charlie.brown@domain,invalid
+david.white@website.com,valid
+emma.green@place.co,valid
+incorrect-email@domain,invalid
+george.king@service.edu,valid
